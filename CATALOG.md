@@ -12,17 +12,17 @@ Browse by the problem you are trying to solve. Evidence status describes local u
 
 | ID | Author / date | Topic | Original URL | Coverage |
 | --- | --- | --- | --- | --- |
-| [SRC-0001](sources/SRC-0001-kajikent-design-quality.md) | Kento Kajitani / 2026-09-30 | Design quality benchmarks and self-review | https://x.com/kajikent/status/2105095422448746573 | Main post read; selected author follow-ups read |
+| [SRC-0001](sources/SRC-0001-kajikent-design-quality.md) | Kento Kajitani / 2026-09-30 | Design quality benchmarks and self-review | https://x.com/kajikent/status/2105095422448746573 | Main post and signed-in discussion reviewed; 53 reply/context posts encountered |
 
 ## Other problem areas
 
-Context and instructions, scope and planning, reusable workflows, and efficiency have no catalogued practices yet. Add entries when relevant bookmarks are supplied; do not populate these areas with invented sources.
+Context/instruction and reusable workflow entries appear below. Scope/planning and efficiency remain open areas; do not populate them with invented sources.
 
 ## Playbooks and experiments
 
 - No active playbooks.
 - One planned experiment; zero completed experiments.
-- Two user-supplied bookmarks catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
+- Four supplied/bookmark-collection sources catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
 
 ## Discussion-aware intake additions — 2026-10-03
 
@@ -39,3 +39,10 @@ Context and instructions, scope and planning, reusable workflows, and efficiency
 | [PRAC-0002: Evals plus product checks](practices/PRAC-0002-evals-and-product-use.md) | Untested | Lucas Rollo reply |
 | [PRAC-0003: Positive outcomes](practices/PRAC-0003-evaluate-positive-outcomes.md) | Untested | Ari Heljakka reply |
 | [PRAC-0004: Error discovery before metrics](practices/PRAC-0004-error-discovery-before-metrics.md) | Untested | Primary repository and article |
+
+## Repository instructions and agent workflows — 2026-10-04
+
+| Source | Topic | Practice | Status |
+| --- | --- | --- | --- |
+| [SRC-0005](sources/SRC-0005-repository-anti-patterns.md) | Repository anti-patterns, alternatives and reasons | [PRAC-0005](practices/PRAC-0005-repository-anti-patterns.md) | Untested |
+| [SRC-0006](sources/SRC-0006-agent-inbox-workflow.md) | Inbox processing, author clarification, recovery | [PRAC-0006](practices/PRAC-0006-agent-inbox.md) | Untested; example bookmark retained |
