@@ -15,6 +15,9 @@ language: unknown
 access_status: unavailable
 capture_status: captured
 related_practices: []
+discovery: user_supplied
+discovered_from: null
+discussion_status: not_reviewed
 ---
 
 # Specific source title
@@ -31,6 +34,9 @@ What evidence is actually present? What remains unverified?
 
 ## Related material
 Separate author clarifications, third-party replies, and linked sources.
+
+## Discussion review (for social sources)
+Observed parent/quote relationships; per-post reply counts and coverage; retained reply URLs with author attribution; exclusions; access limits; resume queue. See ../docs/discussion-intake.md.
 
 ## Extracted practices
 Links to practice records, or why none was extracted.

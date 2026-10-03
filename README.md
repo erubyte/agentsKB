@@ -25,7 +25,7 @@ Original URL: https://x.com/kajikent/status/2105095422448746573
 
 Extracted [practice](practices/PRAC-0001-design-self-review.md): specify a design benchmark and ask the agent to review and improve the result. **Status: untested.** A bounded, measurable adaptation and a [planned experiment](experiments/EXP-0001-design-self-review.md) are included; neither has been validated.
 
-Only one user-supplied bookmark has been catalogued. Linked author replies provide context within its source record. No access to the user's bookmark collection is assumed.
+Two user-supplied bookmarks have been catalogued. The second adds quoted context, reply-derived tips, and two linked resource records. No access to the user's bookmark collection is assumed.
 
 ## How to use this repository
 
@@ -47,4 +47,10 @@ Only one user-supplied bookmark has been catalogued. Linked author replies provi
 | `templates/` | Copyable starting points |
 | `docs/` | Design, formats, operating process, improvement plan |
 
-Markdown and Git are the initial system. No database, hosting, paid integration, or scheduled automation is required or currently configured.
+Markdown and Git are the initial system. No database, hosting, paid integration, or scheduled automation is required or currently configured. The repo-local catalogue-bookmark skill automates context and reply review during an active assistant intake task.
+
+## Automatic discussion review
+
+For each tweet, the [catalogue-bookmark skill](.agents/skills/catalogue-bookmark/SKILL.md) follows parent chains and relevant quotes, inspects replies on each post, and extracts useful tips and disagreements with exact URLs. See the [procedure and access limits](docs/discussion-intake.md).
+
+[The Lenny example](sources/SRC-0002-lenny-evals-discussion.md) includes six accessible replies across two posts. Remaining replies are login-limited and recorded for continuation. Supply a bookmark to an assistant working in this repo to run intake; this is not a background monitor.

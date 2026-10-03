@@ -99,3 +99,7 @@ Use Git for reviewable changes and history. Use Markdown for portability. Keep o
 Defer semantic search until keyword search repeatedly fails. Defer automatic feed ingestion until manual ingestion quality is understood. Defer generated tool-specific instructions until adopted practices justify them. Defer a website until browsing Markdown is demonstrably inadequate.
 
 Any later index, database, or search service should be rebuildable from canonical Markdown records. Migration must preserve IDs, exact original URLs, relationships, evidence status, and history. Document the problem and a rollback plan before introducing a new dependency.
+
+## 9. Discussion graphs
+
+Social bookmarks are entry points into discussions. Automatically follow verified reply parents and relevant quoted posts, and inspect replies on each. Keep relationship types, exact URLs, attribution, coverage, and a continuation queue in the source record. See [discussion intake](discussion-intake.md). Useful corrections and counterexamples carry as much editorial value as tips. This extends the source layer without making each noisy reply a standalone record.

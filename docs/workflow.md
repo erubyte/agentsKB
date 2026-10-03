@@ -16,7 +16,7 @@ Capture is complete when the link can be recovered and its processing state is c
 
 Open the original source using an available reader or browser. If the first method fails, a normal browser or another authorized access route may work. Note which route succeeded.
 
-Identify author, publication date, language, main claims, visible evidence, relevant media, and linked material. Read relevant author clarifications where accessible. Do not treat replies by others as the author's advice.
+Identify author, publication date, language, main claims, visible evidence, relevant media, and linked material. For X bookmarks, automatically execute [discussion-aware intake](discussion-intake.md): follow verified reply-parent chains and relevant quotes, then inspect replies on every contextual post. Read useful third-party tips, disagreements, and author clarifications. Do not treat replies by others as the author's advice.
 
 For long threads, articles, video, or image-heavy posts, state exactly what was read. A snippet is partial access. If key content cannot be retrieved, preserve the URL and mark the record partial or unavailable. Ask for pasted text or an attachment only when necessary to proceed; do not guess.
 

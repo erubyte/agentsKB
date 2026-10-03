@@ -15,6 +15,9 @@ language: ja
 access_status: full
 capture_status: catalogued
 related_practices: [PRAC-0001]
+discovery: user_supplied
+discovered_from: null
+discussion_status: partial
 ---
 
 # Design benchmarks and iterative self-review
@@ -59,3 +62,7 @@ The bounded loop, concrete quality dimensions, and evaluation plan are assistant
 ## Editorial history
 
 - 2026-10-03: Catalogued the supplied bookmark from the browser reading in this conversation. Preserved the exact URL, separated author follow-ups, and linked one untested practice.
+
+## Discussion continuation
+
+This earlier capture reviewed two author follow-ups but did not systematically inspect the full discussion. A visible third-party reply at https://x.com/tonsoku/status/2105357025127567361 was truncated. On a future refresh, expand it, check parent/quote context, and review remaining accessible replies under the new discussion procedure. No additional reply review was performed on this record in the current change.

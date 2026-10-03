@@ -31,3 +31,7 @@ Read README.md, docs/record-formats.md, and docs/workflow.md before changing kno
 ## Scope and reporting
 
 Process supplied links or explicitly authorized sources. Do not imply that an entire bookmark account was imported when only individual links were available. Report records added, practices extracted, items blocked, and validation status. Do not claim automated checks or experiments ran unless they actually did.
+
+## Discussion-aware intake
+
+For every X bookmark, automatically follow verified parent chains and relevant quoted posts, then review replies on the seed and each contextual post. Use [the discussion procedure](docs/discussion-intake.md) and [catalogue-bookmark skill](.agents/skills/catalogue-bookmark/SKILL.md). Preserve exact URLs, per-reply attribution, access limits, and a resume queue. Do not ask the user to do the reply review manually. Distinguish quotes from reply parents and public-view coverage from the whole discussion.

@@ -22,4 +22,20 @@ Context and instructions, scope and planning, reusable workflows, and efficiency
 
 - No active playbooks.
 - One planned experiment; zero completed experiments.
-- One user-supplied bookmark catalogued. Related reply links are context, not additional imported bookmarks.
+- Two user-supplied bookmarks catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
+
+## Discussion-aware intake additions — 2026-10-03
+
+| Source | Origin | Coverage |
+| --- | --- | --- |
+| [SRC-0002: Lenny evals discussion](sources/SRC-0002-lenny-evals-discussion.md) | User bookmark: https://x.com/lennysan/status/2102464854594662480?s=20 | Two posts, six replies; partial, login-limited |
+| [SRC-0003: eval-skills](sources/SRC-0003-evals-skills.md) | Discovered repository | README only |
+| [SRC-0004: advanced evals](sources/SRC-0004-advanced-evals.md) | Discovered article | Partial article |
+
+### Quality and verification: evals
+
+| Practice | Status | Evidence |
+| --- | --- | --- |
+| [PRAC-0002: Evals plus product checks](practices/PRAC-0002-evals-and-product-use.md) | Untested | Lucas Rollo reply |
+| [PRAC-0003: Positive outcomes](practices/PRAC-0003-evaluate-positive-outcomes.md) | Untested | Ari Heljakka reply |
+| [PRAC-0004: Error discovery before metrics](practices/PRAC-0004-error-discovery-before-metrics.md) | Untested | Primary repository and article |

@@ -91,9 +91,9 @@ Add a small local validator after repeatable manual errors appear. Check require
 
 Acceptance: deliberate malformed examples fail; current records pass; running the checker needs no paid service. Keep output actionable.
 
-### Stage 3 — Assisted intake (proposed)
+### Stage 3 — Assisted intake (initial agent workflow implemented)
 
-Add a repeatable ingestion command or skill after several manually reviewed entries establish the desired quality. It should preserve original URLs before fetching, deduplicate, report access coverage, and propose linked records.
+The user's request to automate discussion review brought this stage forward. The repo-local catalogue-bookmark skill now defines automatic context and reply review during intake, exercised on SRC-0002. Further ingestion tooling remains proposed. The workflow preserves original URLs, deduplicates, reports access coverage, and produces linked records. It depends on an assistant with browsing access; it is not an unattended scraper.
 
 Acceptance: inaccessible sources are recorded honestly; duplicates retain their supplied URLs; source claims and adaptations stay separate. Review generated changes before accepting them.
 

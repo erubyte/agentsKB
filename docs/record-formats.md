@@ -87,3 +87,7 @@ CATALOG.md contains a row for each source and practice, plus links to experiment
 8. The diff contains no accidental private data or unrelated changes.
 
 These are currently manual editorial checks. A future checker may enforce structure and link integrity, but cannot certify truth, usefulness, or source faithfulness.
+
+## Discussion-aware extension (schema v1, additive)
+
+For X intake, include the discussion ledger and resume queue defined in [discussion intake](discussion-intake.md). Optional metadata: discovery (user_supplied or linked), discovered_from (source ID or null), and discussion_status (not_reviewed, partial, reviewed_accessible). original_url is the exact supplied or discovered URL; discovery records which. Existing records remain valid. Main-source access and discussion coverage are separate. Do not silently upgrade older entries to reviewed.
