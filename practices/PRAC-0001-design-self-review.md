@@ -35,7 +35,7 @@ Aspirational design language should not displace concrete user needs or function
 
 Original URL: https://x.com/kajikent/status/2105095422448746573
 
-The source does not prescribe the dimensions, three-round limit, or external evaluation below.
+The main post does not prescribe the dimensions or three-round limit below. A signed-in discussion refresh found separate-reviewer advice from the author and bounded-review suggestions from commenters; see SRC-0001 for individual attribution.
 
 ## Proposed procedure
 
@@ -43,11 +43,11 @@ The following is an assistant-authored operational adaptation:
 
 1. Start with the actual site's audience, purpose, content, functional requirements, and existing visual constraints.
 2. Specify the desired design direction. Treat award references as inspiration unless concrete criteria have been supplied and checked.
-3. Render the site at agreed desktop and mobile sizes.
+3. Render the site at agreed desktop and mobile sizes; keep comparison viewports and references fixed.
 4. Review typography, spacing, hierarchy, consistency, responsive behavior, and accessibility. Use appropriate checks rather than claiming screenshots prove accessibility.
 5. Identify the three weakest aspects supported by the inspection. Improve them without breaking the functional brief.
 6. Re-render and review. Stop after at most three review rounds or the pre-agreed time budget, whichever comes first.
-7. Report changes and unresolved limitations. Do not claim an actual award-level result from self-review alone.
+7. Where useful, ask a separate reviewer to assess the finished result against the same criteria. Report changes and unresolved limitations. Do not claim an actual award-level result from self-review alone.
 
 ### Reusable prompt adaptation
 
@@ -75,3 +75,6 @@ Promote to promising only after an observed benefit. Adoption requires repeated 
 ## Change history
 
 - 2026-10-03: Extracted from SRC-0001. Added a bounded adaptation and planned comparison; status remains untested.
+
+
+- 2026-10-03: Added attributed discussion support for bounded loops, rendered checks, independent review, and consistent comparison conditions. Still untested.
