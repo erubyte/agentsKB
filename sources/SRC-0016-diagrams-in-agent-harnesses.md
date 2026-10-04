@@ -34,9 +34,6 @@ The post is a short opinion; the linked example and replies have not been review
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 Wattenberger's post is a short video demonstration arguing that agent harnesses should communicate with diagrams instead of walls of text. In replies, she identifies her open-source Intent app and says a polished version is forthcoming (https://x.com/Wattenberger/status/2102435273674289402); when asked for a source she links https://github.com/intent-hq/intent (https://x.com/Wattenberger/status/2102508589835604131). She says Linux is supported in reply to a user asking (https://x.com/JanDamaschke/status/2102464170704654412, https://x.com/Wattenberger/status/2102469322581152078). X showed 76 replies; only these relevant branches and visible reactions were sampled. Product existence is not evidence of better comprehension; no app evaluation performed.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
