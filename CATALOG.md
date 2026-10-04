@@ -46,3 +46,5 @@ Context/instruction and reusable workflow entries appear below. Scope/planning a
 | --- | --- | --- | --- |
 | [SRC-0005](sources/SRC-0005-repository-anti-patterns.md) | Repository anti-patterns, alternatives and reasons | [PRAC-0005](practices/PRAC-0005-repository-anti-patterns.md) | Untested |
 | [SRC-0006](sources/SRC-0006-agent-inbox-workflow.md) | Inbox processing, author clarification, recovery | [PRAC-0006](practices/PRAC-0006-agent-inbox.md) | Untested; example bookmark retained |
+
+| [SRC-0007](sources/SRC-0007-design-before-code.md) | Visual planning before website implementation | [PRAC-0007](practices/PRAC-0007-design-before-code.md) | Untested; partial thread review |

@@ -14,5 +14,7 @@ Project examples remain bookmarked. No whole-library completion claim is made.
 
 | Source | Classification | KB review | X action |
 | --- | --- | --- | --- |
-| [SRC-0005](../sources/SRC-0005-repository-anti-patterns.md) | Coding guidance | Main post and useful accessible replies catalogued | Pending removal after commit verification |
+| [SRC-0005](../sources/SRC-0005-repository-anti-patterns.md) | Coding guidance | Main post and useful accessible replies catalogued | Removed; X displayed “Removed from your Bookmarks” and the control changed to Bookmark |
 | [SRC-0006](../sources/SRC-0006-agent-inbox-workflow.md) | Agent workflow example, mixed scope | Main post, author clarification and useful replies catalogued | Retain: project/workflow example |
+
+| [SRC-0007](../sources/SRC-0007-design-before-code.md) | Coding/design workflow | Seed and some replies read; quoted post and selected correcting replies reviewed; both threads remain partial | Pending removal after commit verification |
