@@ -17,7 +17,7 @@ capture_status: catalogued
 related_practices: []
 discovery: user_supplied
 discovered_from: null
-discussion_status: not_reviewed
+discussion_status: partial
 ---
 
 # Give verbose agent output a separate surface
@@ -36,6 +36,17 @@ Any linked guide, tool, or project is a lead from the post, not independently va
 
 ## Discussion review (for social sources)
 Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
+
+## Discussion review — 2026-10-04
+
+### Conversation context and replies
+The original post appears standalone; X showed zero replies. Its attached short demo video was viewed. The UI separates agent output and supporting evidence into a dedicated tab/surface, with visible evidence items and the underlying Markdown and design instructions. The description in the first-pass record reflects the demo UI, not a demonstrated usability outcome.
+
+### Coverage and limits
+Main post and video reviewed; no replies were available. No parent or quoted source was visible. The demo was not independently tested and no practice is extracted here.
+
+### Resume queue
+Check linked project/material, if any, and assess the proposed UI pattern against user tasks in the later synthesis phase.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
