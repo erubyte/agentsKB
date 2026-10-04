@@ -60,7 +60,7 @@ Main-post source cards are indexed here; reply research and practice extraction 
 
 | Source | Topic | Classification | Evidence status |
 | --- | --- | --- | --- |
-| [SRC-0010](sources/SRC-0010-codebase-memory-repository-indexing.md) | Use repository indexing to avoid repetitive file walks | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0010](sources/SRC-0010-codebase-memory-repository-indexing.md) | Use repository indexing to avoid repetitive file walks | practice candidate | Partial first-pass ledger; X unavailable during follow-up; substantive thread/media review outstanding |
 | [SRC-0011](sources/SRC-0011-count-rule-copies-before-changing-features.md) | Check duplicated instruction copies before changing a feature | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
 | [SRC-0012](sources/SRC-0012-awwwards-as-web-design-quality-bar.md) | Use a design rubric as a reference quality bar | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
 | [SRC-0013](sources/SRC-0013-design-references-before-website-code.md) | Study design references before writing a site | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
