@@ -34,9 +34,6 @@ The saved-post preview is truncated; details, target service, safety implication
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 The bookmark quote-posts Alex Bouaziz's announcement of Deel's internal Akai automation tool. Wiza calls browser HTTP-request inspection a clever path for discovering automation opportunities. X showed 10 replies. One user frames this as discovering undocumented/private APIs (https://x.com/MrSuperSecret/status/2102217329417523358), while another calls the network tab the new API (https://x.com/ItsGoharr/status/2102268514027651187). A counterpoint lists chained IDs, expiring authentication/CSRF tokens, origin headers, and signed/encrypted client payloads as obstacles to robust raw-HTTP automation (https://x.com/ischadenfreuder/status/2102314568865227082). Wiza was unsure whether OpenAI browser could do this (https://x.com/obiabo_immanuel/status/2102191914359324873). The quoted video was 3:18 and not fully transcribed; replies sampled, not exhaustive. This is a discovery/debugging lead, not authorization to bypass access controls or replay private endpoints.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
