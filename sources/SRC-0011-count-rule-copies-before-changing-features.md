@@ -37,19 +37,6 @@ Any linked guide, tool, or project is a lead from the post, not independently va
 ## Discussion review — 2026-10-04
 
 ### Conversation context and replies
-The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
-
-### Coverage and limits
-Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
-
-### Resume queue
-Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
-
-## Discussion review — 2026-10-04
-
-## Discussion review — 2026-10-04
-
-### Conversation context and replies
 The post is standalone and reports the author’s experience with Opus 5.5. It supplies an AGENTS.md checklist: map where feature logic and copied rules live; compare outputs on the same input; ask the user to resolve conflicts; isolate any semantic merge in its own commit; preserve behavior during refactoring with tests green; write tests before implementation when none exist; keep refactor tests unchanged except import paths; then add a guard test against reintroducing copies. The image illustrates one rule copied across checkout/cart/email code and differing totals.
 
 X shows 8 replies. Inspected replies include:
@@ -63,6 +50,7 @@ The main post, attached image, visible conversation and 8-reply count were revie
 
 ### Resume queue
 No further thread retrieval currently needed. Later synthesis should consider the caller-input counterexample and whether a “single file only” invariant is appropriate for this codebase.
+
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
