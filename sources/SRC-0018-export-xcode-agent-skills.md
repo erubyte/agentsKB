@@ -39,14 +39,13 @@ Not reviewed in phase one. Resume in phase two: establish parent/quote relations
 
 ## Discussion review — 2026-10-04
 
-### Conversation context and replies
-The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
+The post image shows the command xcrun agent skills export --output-dir ~/Downloads/xcode-skills. The linked article https://sarunw.com/posts/export-xcode-agent-skills/ explains export to Markdown skill directories and cautions users to inspect skills before adding them; some depend on Xcode-only tools. It reports Xcode 27.1 replaced uikit-app-modernization with app-resizability, while re-export did not remove the stale old skill, so duplicates can conflict. Replies include a warning that these skills are not useful for Expo workflows (https://x.com/beaving/status/2101041084495237428) and a link to an unofficial installer/repository (https://x.com/mariusfanu/status/2101006867879080009). X showed 3 replies, all inspected. Version-specific material can age; no export/install was run.
 
 ### Coverage and limits
-Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
+Source-specific main post, associated visible parent or quote context, and sampled accessible replies are summarized above. Reply counts describe X's displayed count at review time; selected reply links are illustrative evidence, not exhaustive review. No practice has been experimentally validated in this intake pass.
 
 ### Resume queue
-Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
+Use phase two synthesis to assess whether the candidate is broadly applicable, identify implementation conditions and counterexamples, and design a small local trial where justified.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
