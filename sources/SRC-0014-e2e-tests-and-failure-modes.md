@@ -39,14 +39,13 @@ Not reviewed in phase one. Resume in phase two: establish parent/quote relations
 
 ## Discussion review — 2026-10-04
 
-### Conversation context and replies
-The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
+The main post quotes Dex criticizing unit tests that merely assert constant strings, then proposes AGENTS.md guidance: prefer E2E verification for complex features, save a repeatable artifact, and enumerate failure modes before isolated tests. X showed 83 replies; sampled replies expose a real tradeoff. Kyle Kober argues focused tests still matter for calculations/joins, alongside E2E, because a polished dashboard can hide wrong data (https://x.com/kobex___/status/2102101207804424625). Nimesh recommends selecting medium/hard E2E cases rather than easy demonstrations (https://x.com/nimsbh_ai/status/2102083469362790401). Ansh distinguishes a video as UI evidence from a definitive-output script for backend work (https://x.com/anshnanda/status/2102103373143253177). Another reply flags E2E slowness (https://x.com/TrickedDev/status/2102018707589308758), and another says agents may ignore AGENTS.md rules (https://x.com/jjpcodes/status/2101989374254592337). Large thread sampled only, not exhaustive; advice is prescriptive rather than comparative evidence.
 
 ### Coverage and limits
-Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
+Source-specific main post, associated visible parent or quote context, and sampled accessible replies are summarized above. Reply counts describe X's displayed count at review time; selected reply links are illustrative evidence, not exhaustive review. No practice has been experimentally validated in this intake pass.
 
 ### Resume queue
-Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
+Use phase two synthesis to assess whether the candidate is broadly applicable, identify implementation conditions and counterexamples, and design a small local trial where justified.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
