@@ -34,9 +34,6 @@ This is a suggestion to borrow a third-party rubric; the post’s remaining imag
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 Vox's full post specifies Awwwards weights (design 40%, usability 30%, creativity 20%, content 10%) and proposes running the page, taking a screenshot, scoring each category out of 10, identifying the weakest category, and iterating until all reach 7.5. The attached image was visible. X shows 8 replies. Sampled useful branches: Asmir recommends a separate model such as Codex for critique because a model may be overly agreeable about its own work (https://x.com/asmirkn/status/2106429502951944424); Vox agrees an independent model/subagent would be more rigorous (https://x.com/Voxyz_ai/status/2106482217191174637); Vasily warns numeric targets without concrete criteria can produce arbitrary changes (https://x.com/vleytman/status/2106550134154698974); Mykyta notes screenshots cannot verify touch interactions such as mobile navigation (https://x.com/mktpavlenko/status/2106432044079202811); Park finds the rubric useful for articulating design shortcomings (https://x.com/xparkzz/status/2106572862291317125). The 8-reply thread was sampled, not exhaustively audited. Awwwards scoring weights and claims about award winners remain attributed to the post and were not independently verified. No local experiment or practice adoption.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
