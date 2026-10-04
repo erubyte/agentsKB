@@ -26,3 +26,5 @@ Keep original URLs in this history and in source records. Duplicate captures sho
 - Captured 2026-10-04 — https://x.com/patio11/status/2095182879701512300 — [SRC-0006](sources/SRC-0006-agent-inbox-workflow.md), accessible discussion reviewed; example bookmark retained.
 
 - Captured 2026-10-04 — https://x.com/shannholmberg/status/2102163474709389562 — [SRC-0007](sources/SRC-0007-design-before-code.md), partial discussion on seed and quote; no visible-view completeness claim.
+
+- Captured 2026-10-04 — https://x.com/kail_designs/status/2102265246325047711 — [SRC-0008](sources/SRC-0008-frontend-design-skills.md), resource directory; partial thread and video coverage.
