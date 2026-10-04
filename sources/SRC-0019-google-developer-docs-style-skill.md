@@ -17,7 +17,7 @@ capture_status: catalogued
 related_practices: []
 discovery: user_supplied
 discovered_from: null
-discussion_status: not_reviewed
+discussion_status: partial
 ---
 
 # Use a style guide to shape coding-agent prose
@@ -36,6 +36,17 @@ Any linked guide, tool, or project is a lead from the post, not independently va
 
 ## Discussion review (for social sources)
 Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
+
+## Discussion review — 2026-10-04
+
+### Conversation context and replies
+The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
+
+### Coverage and limits
+Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
+
+### Resume queue
+Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
