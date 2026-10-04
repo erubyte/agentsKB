@@ -39,14 +39,13 @@ Not reviewed in phase one. Resume in phase two: establish parent/quote relations
 
 ## Discussion review — 2026-10-04
 
-### Conversation context and replies
-The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
+Shani's post claims disabling Claude Code prompt suggestions raises usage limits by about 10%; the percentage is unmeasured. X showed 40 replies. In sampled discussion Jakub questions the mechanism and the tiny claimed impact (https://x.com/darthdeus/status/2102420526870474785); Shani says the feature uses the inherited model (https://x.com/iykshani/status/2102430480314597581) but separately admits they had not measured it (https://x.com/iykshani/status/2102410647493583222). Another user notes recap may also consume usage (https://x.com/ahmadghoniem_/status/2102407779533176934). Shani's reply includes a setting/environment-variable hint (https://x.com/iykshani/status/2102405296719380856). Sampled 40-reply thread, not exhaustive. No setting changed and no usage test run; treat the 10% as an unverified claim, not a practice.
 
 ### Coverage and limits
-Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
+Source-specific main post, associated visible parent or quote context, and sampled accessible replies are summarized above. Reply counts describe X's displayed count at review time; selected reply links are illustrative evidence, not exhaustive review. No practice has been experimentally validated in this intake pass.
 
 ### Resume queue
-Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
+Use phase two synthesis to assess whether the candidate is broadly applicable, identify implementation conditions and counterexamples, and design a small local trial where justified.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
