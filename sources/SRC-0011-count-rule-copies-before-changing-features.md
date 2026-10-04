@@ -17,7 +17,7 @@ capture_status: catalogued
 related_practices: []
 discovery: user_supplied
 discovered_from: null
-discussion_status: partial
+discussion_status: reviewed_accessible
 ---
 
 # Check duplicated instruction copies before changing a feature
@@ -48,6 +48,22 @@ Main post only from the first-pass record; discussion research remains incomplet
 ### Resume queue
 Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
 
+## Discussion review — 2026-10-04
+
+### Conversation context and replies
+The post is standalone and reports the author’s experience with Opus 5.5. It supplies an AGENTS.md checklist: map where feature logic and copied rules live; compare outputs on the same input; ask the user to resolve conflicts; isolate any semantic merge in its own commit; preserve behavior during refactoring with tests green; write tests before implementation when none exist; keep refactor tests unchanged except import paths; then add a guard test against reintroducing copies. The image illustrates one rule copied across checkout/cart/email code and differing totals.
+
+X shows 8 replies. Inspected replies include:
+- Morgan says asking which rule is correct prevents the model from arbitrarily choosing between contradictory business rules ([reply](https://x.com/morgan_coding/status/2106113981064831170)).
+- Hamza notes the final “implemented in one file” test is hardest to write ([reply](https://x.com/humzaakhalid/status/2106249484833521844)).
+- Karan adds that even a shared function can yield inconsistent results if callers pass different values, and suggests testing checkout and receipt with the same order ([reply](https://x.com/karanjagtiani04/status/2106181312558375372)).
+- Sael calls duplicate/ghost code difficult to debug and supports having the agent find duplicates ([reply](https://x.com/0xsael/status/2106108580730692074)).
+
+### Coverage and limits
+The main post, attached image, visible conversation and 8-reply count were reviewed. Four substantive replies are linked above; remaining replies were brief thanks or not surfaced in the captured view. No parent/quote chain or external linked source was apparent. Recommendations are source material, not yet adopted or tested.
+
+### Resume queue
+No further thread retrieval currently needed. Later synthesis should consider the caller-input counterexample and whether a “single file only” invariant is appropriate for this codebase.
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
