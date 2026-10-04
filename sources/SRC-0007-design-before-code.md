@@ -23,7 +23,7 @@ discussion_status: partial
 # Plan a website visually before implementation
 
 ## Provenance and coverage
-Read the full text of the supplied post and its embedded quote by Vox in the signed-in browser. The post also contains linked UI Skills promotion; that site and its claims were not reviewed. The main seed discussion shows 89 replies; a portion of accessible replies was reviewed across scrolls, and the visible feed was not exhausted. Quote context was seen; the quoted post's own discussion was not yet reviewed. No true parent was observed. Bookmark left saved pending broader context review.
+Read the full text of the supplied post and its embedded quote by Vox in the signed-in browser. The post also contains linked UI Skills promotion; that site and its claims were not reviewed. The main seed discussion showed 33 replies; a portion of accessible replies was reviewed across scrolls, and the visible feed was not exhausted. Quote context was seen; the quoted post's own discussion was not yet reviewed. No true parent was observed. Bookmark left saved pending broader context review.
 
 ## Source summary
 The author proposes giving the agent audience, goals, content, brand material, screenshots and references; generating a visual mockup before code; reviewing and revising it; agreeing on components, assets, interactions and mobile behavior; checking candidate design skills; implementing against the approved visual; then comparing browser screenshots at desktop and mobile sizes and testing interaction and keyboard navigation. Advice about current model capabilities and named tools is time-sensitive and not treated as established.
