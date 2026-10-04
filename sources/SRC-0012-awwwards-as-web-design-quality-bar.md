@@ -39,14 +39,13 @@ Not reviewed in phase one. Resume in phase two: establish parent/quote relations
 
 ## Discussion review — 2026-10-04
 
-### Conversation context and replies
-The source card’s main-post summary was preserved from the bookmark ingestion pass. The visible X thread/reply branches, parent or quote context, linked material, and attached media have not yet been captured sufficiently to make source-specific claims in this research ledger.
+Vox's full post specifies Awwwards weights (design 40%, usability 30%, creativity 20%, content 10%) and proposes running the page, taking a screenshot, scoring each category out of 10, identifying the weakest category, and iterating until all reach 7.5. The attached image was visible. X shows 8 replies. Sampled useful branches: Asmir recommends a separate model such as Codex for critique because a model may be overly agreeable about its own work (https://x.com/asmirkn/status/2106429502951944424); Vox agrees an independent model/subagent would be more rigorous (https://x.com/Voxyz_ai/status/2106482217191174637); Vasily warns numeric targets without concrete criteria can produce arbitrary changes (https://x.com/vleytman/status/2106550134154698974); Mykyta notes screenshots cannot verify touch interactions such as mobile navigation (https://x.com/mktpavlenko/status/2106432044079202811); Park finds the rubric useful for articulating design shortcomings (https://x.com/xparkzz/status/2106572862291317125). The 8-reply thread was sampled, not exhaustively audited. Awwwards scoring weights and claims about award winners remain attributed to the post and were not independently verified. No local experiment or practice adoption.
 
 ### Coverage and limits
-Main post only from the first-pass record; discussion research remains incomplete. No practice is extracted here.
+Source-specific main post, associated visible parent or quote context, and sampled accessible replies are summarized above. Reply counts describe X's displayed count at review time; selected reply links are illustrative evidence, not exhaustive review. No practice has been experimentally validated in this intake pass.
 
 ### Resume queue
-Open the original post while signed in; establish parent/quote relationships; inspect actionable replies, corrections, counterexamples and author clarifications; review linked material and media; add exact reply URLs and distinguish author claims from independent user reports.
+Use phase two synthesis to assess whether the candidate is broadly applicable, identify implementation conditions and counterexamples, and design a small local trial where justified.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
