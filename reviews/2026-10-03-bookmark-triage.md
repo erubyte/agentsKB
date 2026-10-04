@@ -23,4 +23,4 @@ Project examples remain bookmarked. No whole-library completion claim is made.
 
 | [SRC-0008](../sources/SRC-0008-frontend-design-skills.md) | Frontend skill recommendations | Main list read; 20+ accessible replies sampled; video and linked skills not reviewed | Removed after commit 61199e7; X bookmark count dropped and the control changed to Bookmark |
 
-| [SRC-0009](../sources/SRC-0009-prompt-audit-after-model-changes.md) | Agent prompt/skill maintenance | Main post and current linked guide read; about 35 accessible reply/context posts sampled; thread is partial | Awaiting commit verification before removal |
+| [SRC-0009](../sources/SRC-0009-prompt-audit-after-model-changes.md) | Agent prompt/skill maintenance | Main post and current linked guide read; about 35 accessible reply/context posts sampled; thread is partial | Removed after commit ec093de; X count dropped by one and the control changed to Bookmark |
