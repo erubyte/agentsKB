@@ -34,9 +34,6 @@ The saved post is a resource announcement, not evidence that the materials impro
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 Hamel's post quote-posts Lenny's note that evaluation is entering product/PM discussions and job descriptions. Hamel offers a roughly 30-minute guide and skills derived from extensive evaluation work, aimed at finding product errors. His reply says Lenny rigorously vets guest posts through multiple rounds (https://x.com/HamelHusain/status/2102437688674840735). Other sampled branches raise reviewer-criteria drift (https://x.com/ohadbiron/status/2103029828177838521), the need for replayable inputs and grader versions for reproducibility (https://x.com/OCTAMEM/status/2102452586062205415), and ask which skill is skipped most (https://x.com/0xkkai/status/2102439716175917296). X showed 22 replies; sample only. The guide and skills are an announced resource; their effectiveness is not established in this card.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
