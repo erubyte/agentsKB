@@ -7,6 +7,7 @@ Browse by the problem you are trying to solve. Evidence status describes local u
 | Practice | Use when | Status | Source | Trial |
 | --- | --- | --- | --- | --- |
 | [PRAC-0001: Design benchmark with bounded self-review](practices/PRAC-0001-design-self-review.md) | Building a website whose visual quality matters | Untested | [SRC-0001](sources/SRC-0001-kajikent-design-quality.md) | [EXP-0001: planned](experiments/EXP-0001-design-self-review.md) |
+| [PRAC-0009: Review agent instructions after model changes](practices/PRAC-0009-review-agent-instructions-after-model-changes.md) | Stale or conflicting prompts after model/project changes | Untested | [SRC-0009](sources/SRC-0009-prompt-audit-after-model-changes.md) | None |
 
 ## Sources
 
@@ -22,7 +23,7 @@ Context/instruction and reusable workflow entries appear below. Scope/planning a
 
 - No active playbooks.
 - One planned experiment; zero completed experiments.
-- Six supplied/bookmark-collection sources catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
+- Seven supplied/bookmark-collection sources catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
 
 ## Discussion-aware intake additions — 2026-10-03
 
@@ -50,3 +51,4 @@ Context/instruction and reusable workflow entries appear below. Scope/planning a
 | [SRC-0007](sources/SRC-0007-design-before-code.md) | Visual planning before website implementation | [PRAC-0007](practices/PRAC-0007-design-before-code.md) | Untested; partial thread review |
 
 | [SRC-0008](sources/SRC-0008-frontend-design-skills.md) | Frontend design skill directory and discussion caveats | [PRAC-0007](practices/PRAC-0007-design-before-code.md) | Candidate resources; untested |
+| [SRC-0009](sources/SRC-0009-prompt-audit-after-model-changes.md) | Skill/prompt review after model changes and edge-case cautions | [PRAC-0009](practices/PRAC-0009-review-agent-instructions-after-model-changes.md) | Untested |
