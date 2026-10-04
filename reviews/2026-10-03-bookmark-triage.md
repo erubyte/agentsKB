@@ -21,4 +21,4 @@ Project examples remain bookmarked. No whole-library completion claim is made.
 
 | [SRC-0002](../sources/SRC-0002-lenny-evals-discussion.md) | Evals and coding-agent evaluation | Signed-in sample: 19/26 seed replies and 19/85 quoted-post replies; added limitations and corrections | Removed after commit ce56c9e; X count decreased and control changed to Bookmark |
 
-| [SRC-0008](../sources/SRC-0008-frontend-design-skills.md) | Frontend skill recommendations | Main list read; 20+ accessible replies sampled; video and linked skills not reviewed | Pending removal after commit verification |
+| [SRC-0008](../sources/SRC-0008-frontend-design-skills.md) | Frontend skill recommendations | Main list read; 20+ accessible replies sampled; video and linked skills not reviewed | Removed after commit 61199e7; X bookmark count dropped and the control changed to Bookmark |
