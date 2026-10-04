@@ -34,9 +34,6 @@ The percentage is an unverified personal claim. Current product behavior, the re
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 Shani's post claims disabling Claude Code prompt suggestions raises usage limits by about 10%; the percentage is unmeasured. X showed 40 replies. In sampled discussion Jakub questions the mechanism and the tiny claimed impact (https://x.com/darthdeus/status/2102420526870474785); Shani says the feature uses the inherited model (https://x.com/iykshani/status/2102430480314597581) but separately admits they had not measured it (https://x.com/iykshani/status/2102410647493583222). Another user notes recap may also consume usage (https://x.com/ahmadghoniem_/status/2102407779533176934). Shani's reply includes a setting/environment-variable hint (https://x.com/iykshani/status/2102405296719380856). Sampled 40-reply thread, not exhaustive. No setting changed and no usage test run; treat the 10% as an unverified claim, not a practice.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
