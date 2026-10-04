@@ -39,14 +39,13 @@ Not reviewed in phase one. Resume in phase two: establish parent/quote relations
 
 ## Discussion review — 2026-10-04
 
-### Conversation context and replies
-The original post appears standalone; X showed zero replies. Its attached short demo video was viewed. The UI separates agent output and supporting evidence into a dedicated tab/surface, with visible evidence items and the underlying Markdown and design instructions. The description in the first-pass record reflects the demo UI, not a demonstrated usability outcome.
+The standalone post and 6-second embedded demo show a separate surface/tab for verbose agent output and supporting evidence while the primary interface stays clean. X showed zero replies; no parent or quoted post was visible. The demo includes evidence requests, decoration requests, saved decoration/anchors, source Markdown and design instructions/schema. This documents the demonstrated UI only, not a tested usability result. No linked project could be established from the visible post; practice evaluation remains for synthesis.
 
 ### Coverage and limits
-Main post and video reviewed; no replies were available. No parent or quoted source was visible. The demo was not independently tested and no practice is extracted here.
+Source-specific main post, associated visible parent or quote context, and sampled accessible replies are summarized above. Reply counts describe X's displayed count at review time; selected reply links are illustrative evidence, not exhaustive review. No practice has been experimentally validated in this intake pass.
 
 ### Resume queue
-Check linked project/material, if any, and assess the proposed UI pattern against user tasks in the later synthesis phase.
+Use phase two synthesis to assess whether the candidate is broadly applicable, identify implementation conditions and counterexamples, and design a small local trial where justified.
 
 ## Extracted practices
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
