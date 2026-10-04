@@ -34,9 +34,6 @@ The post preview is partial; the source guide, proposed skill, and replies are n
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 The post recommends using Google Developer Documentation Style Guide material to create a Claude skill that reduces generic AI-sounding prose. The primary guide https://developers.google.com/style says project-specific guidance takes precedence, then Google guidance, then third-party guidance; it prioritizes clarity, consistency and domain context and presents guidelines rather than immutable rules. X showed 114 replies, which were not sampled in this pass. The claimed improvement in prose has not been measured and no skill was created or tested. Keep this as a resource candidate pending reply review and a before/after evaluation.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
