@@ -34,9 +34,6 @@ The command image and current Xcode documentation were not checked. Version and 
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 The post image shows the command xcrun agent skills export --output-dir ~/Downloads/xcode-skills. The linked article https://sarunw.com/posts/export-xcode-agent-skills/ explains export to Markdown skill directories and cautions users to inspect skills before adding them; some depend on Xcode-only tools. It reports Xcode 27.1 replaced uikit-app-modernization with app-resizability, while re-export did not remove the stale old skill, so duplicates can conflict. Replies include a warning that these skills are not useful for Expo workflows (https://x.com/beaving/status/2101041084495237428) and a link to an unofficial installer/repository (https://x.com/mariusfanu/status/2101006867879080009). X showed 3 replies, all inspected. Version-specific material can age; no export/install was run.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
