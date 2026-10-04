@@ -34,9 +34,6 @@ The bookmarked post points to another thread; neither the linked content nor dis
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 The source is Lenny's post linking Anshul Nanda's design guidance for AI-built websites. The linked thread's visible recommendations include using seed strings, specifying ambition, using subagents for critique, reviewing images/video, cutting low-value elements, removing common AI design tells, and manually rewriting copy. X showed 120 replies. Sampled replies include a reminder that designers remain necessary (https://x.com/joshpuckett/status/2094834815463985214), a user promo for a Refract skill focused on visual variety (https://x.com/chadboyda/status/2094843213001441584), and a suggestion to generate random seeds automatically (https://x.com/BDoma/status/2095192799574475010), which Lenny acknowledges playfully (https://x.com/lennysan/status/2095194527372087655). Thread sample only; full linked article and all parent/reply branches not exhaustively reviewed. These are recommendations, not controlled results.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
