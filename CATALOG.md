@@ -60,19 +60,19 @@ Main-post source cards are indexed here; reply research and practice extraction 
 
 | Source | Topic | Classification | Evidence status |
 | --- | --- | --- | --- |
-| [SRC-0010](sources/SRC-0010-codebase-memory-repository-indexing.md) | Use repository indexing to avoid repetitive file walks | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0011](sources/SRC-0011-count-rule-copies-before-changing-features.md) | Check duplicated instruction copies before changing a feature | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0012](sources/SRC-0012-awwwards-as-web-design-quality-bar.md) | Use a design rubric as a reference quality bar | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0013](sources/SRC-0013-design-references-before-website-code.md) | Study design references before writing a site | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0014](sources/SRC-0014-e2e-tests-and-failure-modes.md) | Prefer end-to-end tests and enumerate failure modes first | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0015](sources/SRC-0015-prompt-suggestions-and-usage-claim.md) | Prompt suggestions and a claimed usage reduction | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0016](sources/SRC-0016-diagrams-in-agent-harnesses.md) | Use diagrams to explain agent harnesses | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0017](sources/SRC-0017-inspect-browser-requests-for-automation.md) | Inspect browser network requests when building automation | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0018](sources/SRC-0018-export-xcode-agent-skills.md) | Export Xcode-provided agent skills | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0019](sources/SRC-0019-google-developer-docs-style-skill.md) | Use a style guide to shape coding-agent prose | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0020](sources/SRC-0020-ai-evals-course-and-skills.md) | Use evaluation resources to find product errors | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0021](sources/SRC-0021-design-prompts-for-ai-websites.md) | Design guidance for AI-built websites | practice candidate | Main post captured; replies and linked material queued for phase two |
-| [SRC-0022](sources/SRC-0022-separate-agent-output-from-user-facing-ui.md) | Give verbose agent output a separate surface | practice candidate | Main post captured; replies and linked material queued for phase two |
+| [SRC-0010](sources/SRC-0010-codebase-memory-repository-indexing.md) | Use repository indexing to avoid repetitive file walks | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0011](sources/SRC-0011-count-rule-copies-before-changing-features.md) | Check duplicated instruction copies before changing a feature | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0012](sources/SRC-0012-awwwards-as-web-design-quality-bar.md) | Use a design rubric as a reference quality bar | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0013](sources/SRC-0013-design-references-before-website-code.md) | Study design references before writing a site | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0014](sources/SRC-0014-e2e-tests-and-failure-modes.md) | Prefer end-to-end tests and enumerate failure modes first | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0015](sources/SRC-0015-prompt-suggestions-and-usage-claim.md) | Prompt suggestions and a claimed usage reduction | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0016](sources/SRC-0016-diagrams-in-agent-harnesses.md) | Use diagrams to explain agent harnesses | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0017](sources/SRC-0017-inspect-browser-requests-for-automation.md) | Inspect browser network requests when building automation | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0018](sources/SRC-0018-export-xcode-agent-skills.md) | Export Xcode-provided agent skills | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0019](sources/SRC-0019-google-developer-docs-style-skill.md) | Use a style guide to shape coding-agent prose | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0020](sources/SRC-0020-ai-evals-course-and-skills.md) | Use evaluation resources to find product errors | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0021](sources/SRC-0021-design-prompts-for-ai-websites.md) | Design guidance for AI-built websites | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
+| [SRC-0022](sources/SRC-0022-separate-agent-output-from-user-facing-ui.md) | Give verbose agent output a separate surface | practice candidate | First-pass discussion ledger committed; full source-specific follow-up remains partial |
 | [SRC-0023](sources/SRC-0023-shared-company-brain-for-ai-workflows.md) | Collect shared AI prompts and team decisions | workflow resource | Main post/preview only; unreviewed beyond captured text |
 | [SRC-0024](sources/SRC-0024-second-brain-maintenance-cost.md) | Account for the maintenance cost of a second brain | workflow resource | Main post/preview only; unreviewed beyond captured text |
 | [SRC-0025](sources/SRC-0025-microvm-isolation-for-agent-sessions.md) | Isolate agent sessions in microVMs | resource | Main post/preview only; unreviewed beyond captured text |
