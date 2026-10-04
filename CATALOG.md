@@ -22,7 +22,7 @@ Context/instruction and reusable workflow entries appear below. Scope/planning a
 
 - No active playbooks.
 - One planned experiment; zero completed experiments.
-- Four supplied/bookmark-collection sources catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
+- Five supplied/bookmark-collection sources catalogued, plus two discovered resource records. Related reply links are context, not additional imported bookmarks.
 
 ## Discussion-aware intake additions — 2026-10-03
 

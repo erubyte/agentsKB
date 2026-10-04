@@ -25,7 +25,7 @@ Original URL: https://x.com/kajikent/status/2105095422448746573
 
 Extracted [practice](practices/PRAC-0001-design-self-review.md): specify a design benchmark and ask the agent to review and improve the result. **Status: untested.** A bounded, measurable adaptation and a [planned experiment](experiments/EXP-0001-design-self-review.md) are included; neither has been validated.
 
-Authorized signed-in bookmark review is in progress. Six source records include four supplied/bookmark-collection posts and two discovered resources. See the [triage log](reviews/2026-10-03-bookmark-triage.md) for saved, removed and retained items.
+Authorized signed-in bookmark review is in progress. Seven source records include five supplied/bookmark-collection posts and two discovered resources. See the [triage log](reviews/2026-10-03-bookmark-triage.md) for saved, removed and retained items.
 
 ## How to use this repository
 

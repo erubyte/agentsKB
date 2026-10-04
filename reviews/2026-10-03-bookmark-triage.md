@@ -18,3 +18,5 @@ Project examples remain bookmarked. No whole-library completion claim is made.
 | [SRC-0006](../sources/SRC-0006-agent-inbox-workflow.md) | Agent workflow example, mixed scope | Main post, author clarification and useful replies catalogued | Retain: project/workflow example |
 
 | [SRC-0007](../sources/SRC-0007-design-before-code.md) | Coding/design workflow | Seed and some replies read; quoted post and selected correcting replies reviewed; both threads remain partial | Removed after commit 0a95f6b; X changed the control to “Bookmark” and the count dropped by one |
+
+| [SRC-0002](../sources/SRC-0002-lenny-evals-discussion.md) | Evals and coding-agent evaluation | Signed-in sample: 19/26 seed replies and 19/85 quoted-post replies; added limitations and corrections | Pending removal after commit verification |

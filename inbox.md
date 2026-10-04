@@ -20,7 +20,7 @@ Capture format:
 
 Keep original URLs in this history and in source records. Duplicate captures should link to the retained record, with alternate supplied URLs preserved there.
 
-- Captured 2026-10-03 — https://x.com/lennysan/status/2102464854594662480?s=20 — [SRC-0002](sources/SRC-0002-lenny-evals-discussion.md); quoted context and six public replies reviewed. Three untested practices extracted. Additional replies and nested branches remain in its resume queue.
+- Captured 2026-10-03 — https://x.com/lennysan/status/2102464854594662480?s=20 — [SRC-0002](sources/SRC-0002-lenny-evals-discussion.md); signed-in review added attributed tips and caveats. Seed and quoted discussions remain partial.
 
 - Captured 2026-10-04 — https://x.com/RaulJuncoV/status/2102379223898066947 — [SRC-0005](sources/SRC-0005-repository-anti-patterns.md), accessible discussion reviewed.
 - Captured 2026-10-04 — https://x.com/patio11/status/2095182879701512300 — [SRC-0006](sources/SRC-0006-agent-inbox-workflow.md), accessible discussion reviewed; example bookmark retained.
