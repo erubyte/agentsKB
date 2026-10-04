@@ -34,9 +34,6 @@ The saved post preview is partial and presents an opinion, not a tested UI patte
 ## Related material
 Any linked guide, tool, or project is a lead from the post, not independently validated here. Reply and parent/quote review is deferred to phase two.
 
-## Discussion review (for social sources)
-Not reviewed in phase one. Resume in phase two: establish parent/quote relationships, inspect replies for actionable tips, corrections and counterexamples, and record accessible coverage and exact reply URLs. Do not treat this source card as exhaustive discussion coverage.
-
 ## Discussion review — 2026-10-04
 
 The standalone post and 6-second embedded demo show a separate surface/tab for verbose agent output and supporting evidence while the primary interface stays clean. X showed zero replies; no parent or quoted post was visible. The demo includes evidence requests, decoration requests, saved decoration/anchors, source Markdown and design instructions/schema. This documents the demonstrated UI only, not a tested usability result. No linked project could be established from the visible post; practice evaluation remains for synthesis.
@@ -51,4 +48,5 @@ Use phase two synthesis to assess whether the candidate is broadly applicable, i
 No practice extracted in the ingestion pass. Candidate or resource classification is recorded in the bookmark triage log; practice extraction and validation belong to phase two.
 
 ## Editorial history
-- 2026-10-04: Ingested as a first-pass bookmark record; main-source follow-up queued for phase two.
+- 2026-10-04: Ingested as a first-pass bookmark record.
+- 2026-10-04: Added signed-in source and discussion review; see coverage limits above.
